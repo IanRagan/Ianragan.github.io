@@ -6,13 +6,13 @@ Installed-Size: 681
 Depends: com.spark.snowboard
 Filename: debs/com.ianragan.watson_0.0.8_iphoneos-arm.deb
 Size: 518808
-MD5sum: eb5652504ef12eb406727ba093fac3db
-SHA1: 5a8c9d84b3df7390962fdfbb936be732820b6efb
-SHA256: 185a032206005ab19a4112239d2c4ef05148c36caeff5f27f1866fc411eb66d3
+MD5sum: 7173a9abb5df185f8ca025a7a3f472ab
+SHA1: 215ef102951af283d9c8e918c7fe535475885c50
+SHA256: b1f45ed987b4bf3796c8575d54c80b75c08f72f2e63bdb88dfdbf2a5ae55a373
 Section: Themes
 Priority: optional
 Homepage: Ian's Repo
-Description: A soft iPhone theme.
+Description: A soft and simple iPhone theme.
 Author: Ian Ragan <griffin.ragan97@gmail.com>
 Depiction: https://ianragan.github.io/Depic/Watson/package.html
 Name: Watson
@@ -25,9 +25,9 @@ Installed-Size: 615
 Depends: com.spark.snowboard
 Filename: debs/com.ianragan.watsondark_0.0.1_iphoneos-arm.deb
 Size: 430396
-MD5sum: e2a6847266e310ba15ae2242d0cbfc1e
-SHA1: 3ba8ca7d99e386a5d61f7864b863a1475b6cc02e
-SHA256: e1e3570fe16211699ff16059746208538d21e0eac8c05d2a6853421993903677
+MD5sum: bb266410fc21411b28c71e51ece54b1d
+SHA1: 17220f94604ed9a4b48d3ecdcfad9280fcc0e310
+SHA256: d09732bfaad8f71a9d14da9a9ebc8b4dacc1e120153ea3ff7b04857baca6ced7
 Section: Themes
 Priority: optional
 Homepage: Ian's Repo
