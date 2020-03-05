@@ -5,10 +5,10 @@ Maintainer: Ian Ragan <griffin.ragan97@gmail.com>
 Installed-Size: 681
 Depends: com.spark.snowboard
 Filename: debs/com.ianragan.watson_0.0.9_iphoneos-arm.deb
-Size: 537824
-MD5sum: 196de20e8f803c264441a2dac6eeb8c1
-SHA1: 8328f7db6719fe11dc7c477823cd43c4728fb284
-SHA256: 99c649b4eaf0599d768bd4ca470844c45b648c0cfea9a05cecdeac6b2592b669
+Size: 563696
+MD5sum: 4d8f8af3b20e1e449db07d68dd34280a
+SHA1: d415a989640ed23a205b552f2597f032a35f7b84
+SHA256: 14f8b4e08f3025d4fd288501ca27a4ff2bc08e7d280a8fea66fce2f24bb5ff30
 Section: Themes
 Priority: optional
 Homepage: Ian's Repo
