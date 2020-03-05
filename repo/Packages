@@ -1,0 +1,19 @@
+Package: com.ianragan.Watson
+Version: 0.0.9
+Architecture: iphoneos-arm
+Maintainer: Ian Ragan <griffin.ragan97@gmail.com>
+Installed-Size: 681
+Depends: com.spark.snowboard
+Filename: debs/com.ianragan.watson_0.0.9_iphoneos-arm.deb
+Size: 537824
+MD5sum: 196de20e8f803c264441a2dac6eeb8c1
+SHA1: 8328f7db6719fe11dc7c477823cd43c4728fb284
+SHA256: 99c649b4eaf0599d768bd4ca470844c45b648c0cfea9a05cecdeac6b2592b669
+Section: Themes
+Priority: optional
+Homepage: Ian's Repo
+Description: A soft and simple iPhone theme.
+Author: Ian Ragan <griffin.ragan97@gmail.com>
+Depiction: https://ianragan.github.io/Depic/Watson/package.html
+Name: Watson
+
