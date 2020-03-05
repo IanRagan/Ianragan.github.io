@@ -1,14 +1,14 @@
 Package: com.ianragan.Watson
-Version: 1.0
+Version: 0.0.8
 Architecture: iphoneos-arm
 Maintainer: Ian Ragan <griffin.ragan97@gmail.com>
-Installed-Size: 518.5
+Installed-Size: 681
 Depends: com.spark.snowboard
-Filename: debs/com.ianragan.watson_1.0_iphoneos-arm.deb
-Size: 518208
-MD5sum: 21b90eb03263bf3fa6678dd1b33b5f1d
-SHA1: be6325e7a224e4617d99047b7c0125b8b117c550
-SHA256: a2911f14867e5f3e3f1336180840e523251951a3c4a9f0d9fe7ac48952610ba2
+Filename: debs/com.ianragan.watson_0.0.8_iphoneos-arm.deb
+Size: 518808
+MD5sum: eb5652504ef12eb406727ba093fac3db
+SHA1: 5a8c9d84b3df7390962fdfbb936be732820b6efb
+SHA256: 185a032206005ab19a4112239d2c4ef05148c36caeff5f27f1866fc411eb66d3
 Section: Themes
 Priority: optional
 Homepage: Ian's Repo
@@ -18,16 +18,16 @@ Depiction: https://ianragan.github.io/Depic/Watson/package.html
 Name: Watson
 
 Package: com.ianragan.WatsonDark
-Version: 1.0
+Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Ian Ragan <griffin.ragan97@gmail.com>
-Installed-Size: 518.5
+Installed-Size: 615
 Depends: com.spark.snowboard
-Filename: debs/com.ianragan.watsondark_1.0_iphoneos-arm.deb
-Size: 430332
-MD5sum: 96bb9e64380b3f19c8192c1ff969b2a1
-SHA1: 719a8c13687e630e2e52f4c6bf101be043373c49
-SHA256: 8720a14e2edadbda82d52548901b4a09190456cef8632c7a35ddfd1397292b13
+Filename: debs/com.ianragan.watsondark_0.0.1_iphoneos-arm.deb
+Size: 430396
+MD5sum: e2a6847266e310ba15ae2242d0cbfc1e
+SHA1: 3ba8ca7d99e386a5d61f7864b863a1475b6cc02e
+SHA256: e1e3570fe16211699ff16059746208538d21e0eac8c05d2a6853421993903677
 Section: Themes
 Priority: optional
 Homepage: Ian's Repo
