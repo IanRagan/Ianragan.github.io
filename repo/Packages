@@ -1,0 +1,37 @@
+Package: com.ianragan.Watson
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: Ian Ragan <griffin.ragan97@gmail.com>
+Installed-Size: 681
+Depends: com.spark.snowboard
+Filename: debs/com.ianragan.watson_0.0.8_iphoneos-arm.deb
+Size: 518220
+MD5sum: a85eb7614f635f50a86464a288d12520
+SHA1: 4acbba3fe349cc8ecaf782964c5a804a2e31107b
+SHA256: 7821ff3d0c0c177011eee46416bff19c67c48eb8132b975a5ec994be75dcf56e
+Section: Themes
+Priority: optional
+Homepage: Ian's Repo
+Description: A soft and simple iPhone theme.
+Author: Ian Ragan <griffin.ragan97@gmail.com>
+Depiction: https://ianragan.github.io/Depic/Watson/package.html
+Name: Watson
+
+Package: com.ianragan.WatsonDark
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Ian Ragan <griffin.ragan97@gmail.com>
+Installed-Size: 615
+Depends: com.spark.snowboard
+Filename: debs/com.ianragan.watsondark_0.0.1_iphoneos-arm.deb
+Size: 428872
+MD5sum: 17acdbbdb4eff4895097b271678e1280
+SHA1: f67f2a88e91bce290eb1b24f499bc1dda49c9cf8
+SHA256: 6fa162d2f1053aaf2899404aac476586b65d675f076888375d0b82c30eaac590
+Section: Themes
+Priority: optional
+Homepage: Ian's Repo
+Description: A dark version of Watson.
+Author: Ian Ragan <griffin.ragan97@gmail.com>
+Name: Watson Dark
+
