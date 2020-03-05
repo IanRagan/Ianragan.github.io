@@ -1,0 +1,16 @@
+{
+    "name": "Luna",
+    "author": "Shuga",
+    "version": "1.1.0",
+    "works_min": "8.0",
+    "works_max": "10.4",
+    "icon": "luna.png",
+    "description": "A free and lightweight darkmode for iOS powered by Anemone.",
+    "screenshots": [
+        "luna/01.png",
+        "luna/02.png",
+        "luna/03.png",
+        "luna/04.png",
+        "luna/05.png"
+    ]
+}

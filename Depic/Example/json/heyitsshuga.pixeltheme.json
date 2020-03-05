@@ -1,0 +1,15 @@
+{
+    "name": "Google Pixel Theme",
+    "author": "Shuga, Joseph Shenton, and Coolstar",
+    "version": "1.1-stable",
+    "works_min": "8.0",
+    "works_max": "12.0",
+    "icon": "theme_generic.png",
+    "description": "A recreation of the Google Pixel UI in Anemone.<br><i>Notice: While the core theme should work in iOS 12, UI elements (such as toggle colors) may not be themed.</i>",
+    "screenshots": [
+        "pixeltheme/01.png",
+        "pixeltheme/02.png",
+        "pixeltheme/03.jpg",
+        "pixeltheme/04.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Anemone Theming Example",
+    "author": "Coolstar",
+    "version": "1.0.0",
+    "works_min": "8.0",
+    "works_max": "12.0",
+    "icon": "theme_generic.png",
+    "description": "The official example theme for Anemone including custom icons, custom UI colors, LockGlyph support, and more.",
+    "screenshots": []
+}

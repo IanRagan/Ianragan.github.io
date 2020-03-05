@@ -1,0 +1,12 @@
+{
+    "name": "Zenith Dev Team Zeppelin Logo",
+    "author": "Shuga",
+    "version": "1.0.1",
+    "works_min": "6.0",
+    "works_max": "12.0",
+    "icon": "addon_generic.png",
+    "description": "A Zeppelin icon of the Zenith Dev Team logo.",
+    "screenshots": [
+        "zenithzeppelin/01.png"
+    ]
+}

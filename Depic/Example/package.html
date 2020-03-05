@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Thanks to Magnetar for letting me use this as boilerplate. -->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="theme-color" content="#2196f3">
+  <meta http-equiv="Content-Security-Policy" content="default-src * 'self' 'unsafe-inline' 'unsafe-eval' data: gap:">
+  <title>Shuga's Cydia Repo</title>
+  <link rel="stylesheet" href="css/framework7.min.css">
+  <link rel="stylesheet" href="css/app.css">
+  <link rel="apple-touch-icon" href="img/icon.png">
+  <link rel="icon" href="img/icon.png">
+</head>
+
+<body style="height: 1200px" onload="Repo.methods.initPackage()" class="color-theme-red">
+  <div id="app">
+    <div class="statusbar"></div>
+    <div class="view view-main view-init ios-edges" data-url="/">
+      <div class="page">
+        <div class="navbar">
+          <div style="background-color: #222" class="navbar-inner">
+            <div class="left"></div>
+            <div class="title sliding">Shuga's Cydia Repo</div>
+          </div>
+        </div>
+        <br>
+        <div class="">
+          <div class="block block-strong">
+            <div class="package-head">
+              <div class="package-head-icon">
+                <img class="pkg-ico" id="pkgIcon" src="img/packages/tweak_generic.png">
+              </div>
+              <div class="package-head-name">
+                <h2 id="pkgName">Tweak Name</h2>
+                <h3 id="pkgAuthor">Author Name</h3>
+                <div class="chip">
+                  <div id="pkgVer" class="chip-label">v1.0.0</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="block-title">Device Support</div>
+          <div class="block block-strong">
+            <p id="iosWorks">This packages works between iOS <txt id="iosMin">???</txt> and <txt id="iosMax">???</txt>.</p>
+          </div>
+
+          <div class="block-title">Description</div>
+          <div class="block block-strong">
+            <p id="pkgDesc">This is a generic description for a tweak.</p>
+          </div>
+
+          <div id="screenshotBlock">
+            <div class="block-title">Screenshots</div>
+            <div class="block block-strong">
+              <div data-pagination='{"el": ".swiper-pagination"}' data-space-between="10" data-slides-per-view="auto" data-centered-slides="true" class="swiper-container swiper-init demo-swiper demo-swiper-auto">
+                <div class="swiper-pagination"></div>
+                <div id="screenshotList" class="swiper-wrapper">
+                  <div class="swiper-slide"><img class="screenshot" src="img/screenshots/example/01.png"></div>
+                  <div class="swiper-slide"><img class="screenshot" src="img/screenshots/example/01.png"></div>
+                  <div class="swiper-slide"><img class="screenshot" src="img/screenshots/example/01.png"></div>
+                  <div class="swiper-slide"><img class="screenshot" src="img/screenshots/example/01.png"></div>
+                  <div class="swiper-slide"><img class="screenshot" src="img/screenshots/example/01.png"></div>
+                  <div class="swiper-slide"><img class="screenshot" src="img/screenshots/example/01.png"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <p class="footer" id="youriOSVer"></p>
+          <p class="footer">© 2018 Shuga.</p>
+          <br>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="js/framework7.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="js/routes.js"></script>
+  <script src="js/app.js"></script>
+
+</body>
+
+</html>
