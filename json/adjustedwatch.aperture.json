@@ -1,0 +1,10 @@
+{
+    "name": "Aperture Science LockGlyph",
+    "author": "/u/AdjustedWatch",
+    "version": "1.0.0",
+    "works_min": "8.0",
+    "works_max": "12.0",
+    "icon": "addon_generic.png",
+    "description": "A custom WatchGlyph theme for Aperture Science from the Portal games.",
+    "screenshots": []
+}

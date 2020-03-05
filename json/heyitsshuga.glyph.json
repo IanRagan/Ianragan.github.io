@@ -1,0 +1,10 @@
+{
+    "name": "HeyItsShuga LockGlyph Glyph",
+    "author": "Shuga",
+    "version": "1.0.1",
+    "works_min": "8.0",
+    "works_max": "12.0",
+    "icon": "addon_generic.png",
+    "description": "The HeyItsShuga logo as a LockGlyph glyph.",
+    "screenshots": []
+}

@@ -1,0 +1,12 @@
+{
+    "name": "BSoD Respring",
+    "author": "Shuga",
+    "version": "1.0.0",
+    "works_min": "8.0",
+    "works_max": "8.4.1",
+    "icon": "theme_generic.png",
+    "description": "Make your respring logo into the Blue Screen of Death! Must be applied with WinterBoard.",
+    "screenshots": [
+        "bsodrespring/01.png"
+    ]
+}
