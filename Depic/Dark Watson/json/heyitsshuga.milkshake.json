@@ -1,0 +1,12 @@
+{
+    "name": "Milkshake Additional Icons",
+    "author": "Shuga",
+    "version": "1.0.3",
+    "works_min": "8.0",
+    "works_max": "12.0",
+    "icon": "theme_generic.png",
+    "description": "This package adds more icons that are designed to compliment the Milkshake theme and fill in any missing icons.",
+    "screenshots": [
+        "milkshake/01.png"
+    ]
+}

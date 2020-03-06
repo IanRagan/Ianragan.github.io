@@ -1,0 +1,10 @@
+{
+    "name": "Cutie Mark Zeppelin Logos",
+    "author": "Shuga",
+    "version": "1.0.0",
+    "works_min": "6.0",
+    "works_max": "12.0",
+    "icon": "addon_generic.png",
+    "description": "A pack of various ponies' cutie marks, but it currently only includes Twilight Sparkle's.",
+    "screenshots": []
+}
