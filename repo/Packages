@@ -1,33 +1,33 @@
 Package: com.ianragan.DarkWatson
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Ian Ragan <griffin.ragan97@gmail.com>
 Installed-Size: 615
 Depends: com.spark.snowboard
-Filename: debs/com.ianragan.darkwatson_0.0.1_iphoneos-arm.deb
-Size: 447876
-MD5sum: c2e7693dd5ee16feead0a706d31ec1ea
-SHA1: 240774352c1330fc1eb79358d329b35dd0e19d40
-SHA256: 1b30af78e9af832494c2080ca328752ff57c8cad1dcbd5bd2a9e7573d32ef88c
+Filename: debs/com.ianragan.darkwatson_0.0.2_iphoneos-arm.deb
+Size: 456004
+MD5sum: 887e40d7eccf5dc75ead664bfbe16d43
+SHA1: f2151cc60743b3a336bd37d931b41597cbddef1b
+SHA256: 4887286bbfe73e3e203801a9a841ca2956604d36a1cdf45b29ef74d88275c288
 Section: Themes
 Priority: optional
 Homepage: Ian's Repo
 Description: A dark version of Watson.
 Author: Ian Ragan <griffin.ragan97@gmail.com>
 Depiction: https://ianragan.github.io/Depic/Dark%20Watson/package.html
-Name: Dark Watson
+Name: Dark-Watson
 
 Package: com.ianragan.Watson
-Version: 0.0.9
+Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Ian Ragan <griffin.ragan97@gmail.com>
 Installed-Size: 681
 Depends: com.spark.snowboard
-Filename: debs/com.ianragan.watson_0.0.9_iphoneos-arm.deb
-Size: 536284
-MD5sum: 0130c339a8243da42ab7e9d2729a48f2
-SHA1: bfd12a0618700ca6b35aef81ffa5d3cf67625876
-SHA256: 2d87425f7590869acdba036162424eb875a961f0a76fc4e04dca751ccc9ffeee
+Filename: debs/com.ianragan.watson_0.1_iphoneos-arm.deb
+Size: 545816
+MD5sum: 3d3f26f2439465f9ec850489220e7076
+SHA1: 5b1e90a69712c546b93d13b7cd950a2873567232
+SHA256: df55b99b1e33232e7863de620b7adfa9502779afd093a7753f00d787664682c1
 Section: Themes
 Priority: optional
 Homepage: Ian's Repo
