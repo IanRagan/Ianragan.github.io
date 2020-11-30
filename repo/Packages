@@ -3,12 +3,11 @@ Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Ian Ragan <griffin.ragan97@gmail.com>
 Installed-Size: 615
-Depends: com.spark.snowboard
 Filename: debs/com.ianragan.darkwatson_0.0.2_iphoneos-arm.deb
-Size: 456004
-MD5sum: 887e40d7eccf5dc75ead664bfbe16d43
-SHA1: f2151cc60743b3a336bd37d931b41597cbddef1b
-SHA256: 4887286bbfe73e3e203801a9a841ca2956604d36a1cdf45b29ef74d88275c288
+Size: 455964
+MD5sum: dcd06a16ceba05c3e4e6244f3e601925
+SHA1: 0479a21a7f01c308069acb610f99c4838d05126a
+SHA256: 954a215b666ccbf8a654ef35eea66088537c9bc06d4c81c1b72b5b4362d4bd7b
 Section: Themes
 Priority: optional
 Homepage: Ian's Repo
@@ -22,12 +21,11 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Ian Ragan <griffin.ragan97@gmail.com>
 Installed-Size: 681
-Depends: com.spark.snowboard
 Filename: debs/com.ianragan.watson_0.1_iphoneos-arm.deb
-Size: 545816
-MD5sum: 3d3f26f2439465f9ec850489220e7076
-SHA1: 5b1e90a69712c546b93d13b7cd950a2873567232
-SHA256: df55b99b1e33232e7863de620b7adfa9502779afd093a7753f00d787664682c1
+Size: 546120
+MD5sum: 5cbbcb6fa0eb85b99fdbca2c671ccdca
+SHA1: 264f120de32e18a456c2d1e9334e78c17ab3b1bf
+SHA256: 1fee03db18a0fca29b248525bf876b203cc8112de3c9f46d074afccd2cb20e2d
 Section: Themes
 Priority: optional
 Homepage: Ian's Repo
